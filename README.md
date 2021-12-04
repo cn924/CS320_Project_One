@@ -19,9 +19,9 @@ The purpose of these services is to add, update, and delete contact, task, and a
 Directions
 ContactService, TaskService, and AppointmentService Files
 For this assignment, you will incorporate the code and unit tests that you have developed for the mobile application. 
--First, you developed the contact service and contact object, which you completed in the Module Three milestone.
--Second, you developed the task service and task object, which you completed in the Module Four milestone. 
--Last, you developed the appointment service and appointment object, which you completed in Module Five milestone. Any feedback received on these assignments should be incorporated prior to submitting the files for this final project.
+i. First, you developed the contact service and contact object, which you completed in the Module Three milestone.
+ii. Second, you developed the task service and task object, which you completed in the Module Four milestone. 
+iii. Last, you developed the appointment service and appointment object, which you completed in Module Five milestone. Any feedback received on these assignments should be incorporated prior to submitting the files for this final project.
 
 
 You have been asked to code up a mobile application for a client and provide unit tests to verify that it meets the customer’s requirements. In order to do so, you must complete the following:
