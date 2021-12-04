@@ -8,7 +8,7 @@ In this project, you will demonstrate your mastery of the following competency:
 Create unit tests using code to uncover errors
 
 
-Scenario
+**Scenario**
 You are a software engineer for Grand Strand Systems, a software engineering company that focuses on developing and testing back-end services. 
 You’ve been given an assignment to develop a mobile application for a customer. 
 The customer will provide you with the requirements. Your job is to code up the application and provide unit tests to verify that it meets the customer’s requirements. 
@@ -16,10 +16,12 @@ You will be delivering the contact, task, and appointment services.
 The purpose of these services is to add, update, and delete contact, task, and appointment objects within the application.
 
 
-Directions
+**Directions**
 ContactService, TaskService, and AppointmentService Files
 For this assignment, you will incorporate the code and unit tests that you have developed for the mobile application. 
+
 i. First, you developed the contact service and contact object, which you completed in the Module Three milestone.
+
 ii. Second, you developed the task service and task object, which you completed in the Module Four milestone. 
 iii. Last, you developed the appointment service and appointment object, which you completed in Module Five milestone. Any feedback received on these assignments should be incorporated prior to submitting the files for this final project.
 
@@ -29,7 +31,7 @@ You have been asked to code up a mobile application for a client and provide uni
 
 Contact Service: In the Module Three milestone, you developed the contact service. The contact service used in-memory data structures to support storing contacts (no database required). In addition, there was no UI for this assignment. You verified the contact service through JUnit tests. The contact service contained a contact object along with the contact service. The requirements were as follows:
 
-Contact Class Requirements
+**Contact Class Requirements**
 - The contact object shall have a required unique contact ID String that cannot be longer than 10 characters. The contact ID shall not be null and shall not be updatable.
 
 - The contact object shall have a required firstName String field that cannot be longer than 10 characters. The firstName field shall not be null.
